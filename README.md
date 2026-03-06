@@ -23,15 +23,15 @@ Seluruh data karyawan, log kehadiran, dan rekaman istirahat secara otomatis dan 
 Portal ini digunakan oleh karyawan sehari-harinya melalui *smartphone* atau komputer untuk melaporkan kehadiran dan status jam istirahat. Antarmukanya dibuat elegan, berpusat pada pemindaian wajah (*scanning*).
 
 ### 1. Halaman Utama (Main Portal)
-![Portal Utama Karyawan](./HalamanKaryawan1.png)
+![Portal Utama Karyawan](./preview/HalamanKaryawan1.png)
 *(Catatan: Halaman ini berisi radar/kamera pemindaian lingkaran yang modern di bagian tengah layar, diikuti 4 tombol navigasi besar untuk Absen Masuk, Pulang, Mulai Istirahat, dan Selesai Istirahat.)*
 
 ### 2. Form Login NIK Karyawan
-![Login Karyawan](./HalamanKaryawan2.png)
+![Login Karyawan](./preview/HalamanKaryawan2.png)
 Halaman Autentikasi kilat tempat karyawan menginput **NIK (Nomor Induk Karyawan)** mereka sebelum mengaktifkan kamera agar sistem bisa mengambil identitas dan wajah rujukan yang terasosiasi dengannya.
 
 ### 3. Jendela Autentikasi / Pemindaian
-![Proses Pemindaian](./HalamanKaryawan3.png)
+![Proses Pemindaian](./preview/HalamanKaryawan3.png)
 Sebuah *modal dialog* yang menampilkan hasil komputasi *Face API* secara seketika — apakah wajah terdeteksi (Cocok/Tidak Cocok), dan apakah layanan Lokasi GPS menyala (Geolokasi sukses diperoleh). Karyawan cukup diam sejenak dan *sistem akan secara cerdas mem-validasi* dan menyimpan data.
 
 ---
