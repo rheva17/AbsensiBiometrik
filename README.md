@@ -41,25 +41,25 @@ Sebuah *modal dialog* yang menampilkan hasil komputasi *Face API* secara seketik
 Modul terpisah dan diamankan bagi HRD (Human Resource) untuk mengawasi seluruh riwayat aktivitas, menambahkan data karyawan, mengatur *rules* parameter absen, hingga mengekspor rekap laporan.
 
 ### 1. Dashboard Utama & Live Feed
-![Dashboard Live Feed](./HalamanAdmin1.png)
+![Dashboard Live Feed](./preview/HalamanAdmin1.png)
 Menyajikan statistik kardinal hari ini: jumlah karyawan Hadir, Pulang, Terlambat, dan Tidak Masuk. Di bawahnya, terdapat papan medali melingkar untuk **Top 5 Karyawan Paling Rajin** serta *Live Feed* (*feed* kehadiran) yang terus mengupdate foto, nama, status jam, dan lokasi orang-orang yang baru saja absen.
 
 ### 2. Log Laporan Absensi Lengkap
-![Tabel Absensi](./HalamanAdmin2.png)
+![Tabel Absensi](./preview/HalamanAdmin2.png)
 Sebuah rekam jejak tabel besar (*responsive*) yang mengumpulkan riwayat absen per hari. Meliputi ringkasan Jam Masuk, Jam Pulang, **Durasi Total (Bekerja X Jam Y Menit)**, dan lencana bewarna ganda (merah/hijau) untuk status kedisiplinan (Terlambat, Tepat Waktu). Administrator dapat memfilter riwayat berdasarkan tanggal menggunakan *Date Picker*.
 
 ### 3. Log Laporan Istirahat
-![Tabel Istirahat](./HalamanAdmin3.png)
+![Tabel Istirahat](./preview/HalamanAdmin3.png)
 Tabel khusus untuk menahan rekap *Log Istirahat*. Kolom **Durasi** dan titik **Lokasi Mulai/Selesai** berguna untuk memastikan karyawan kembali dari masa jedanya (*break*) dalam ambang batas jam yang dibolehkan perusahaan.
 
 ### 4. Data Registrasi Karyawan
-![Data Karyawan](./HalamanAdmin4.png)
+![Data Karyawan](./preview/HalamanAdmin4.png)
 Lokasi untuk mengurus *database* personel perusahaan. Menampilkan *badge* apakah wajah karyawan "Sudah Terdaftar" atau "Belum Terdaftar". Menyediakan fitur tombol untuk menambah karyawan baru dan menerbitkan / meng-*generate* kartu pengenal (ID Card) cetak untuk si karyawan.
 
 ### 5. Perekaman / Upload Basis Wajah Muka
-![Upload Wajah Karyawan](./HalamanAdmin5.png)
+![Upload Wajah Karyawan](./preview/HalamanAdmin5.png)
 Modal antarmuka interaktif yang dipanggil oleh Admin untuk mendidik (mendaftarkan) rupa wajah karyawan untuk pertama kalinya ke dalam *database*. Admin dapat menyesuaikan rasio muka (*cropping*) dan mencetak *biometrics* untuk referensi model AI selama 1-2 detik.
 
 ### 6. Pengaturan Sistem Global
-![Pengaturan Jam Kerja](./HalamanAdmin6.png)
+![Pengaturan Jam Kerja](./preview/HalamanAdmin6.png)
 Portal ringan (*Settings*) tempat HRD memodifikasi landasan sistem. Digunakan terutama untuk mendefinisikan Batas Ambang **Jam Masuk** default untuk mem-variabelkan *Badge "Terlambat"* di ujung bulan.
