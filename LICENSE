@@ -1,0 +1,15 @@
+# Proprietary License
+
+Copyright (c) 2026
+
+All rights reserved.
+
+This repository and its contents are provided for portfolio and showcase purposes only. 
+The core backend source code (`Code.gs`) is strictly proprietary and is NOT licensed for public use, distribution, modification, or commercial exploitation.
+
+You may not:
+- Copy, reproduce, or distribute the proprietary code.
+- Reverse engineer or attempt to extract the Google Apps Script backend logic.
+- Use any part of this system for commercial or organizational purposes without explicit written consent from the author.
+
+For business inquiries or licensing opportunities regarding the full functional system, please contact the repository owner.
