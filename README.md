@@ -41,7 +41,7 @@ Sebuah *modal dialog* yang menampilkan hasil komputasi *Face API* secara seketik
 Modul terpisah dan diamankan bagi HRD (Human Resource) untuk mengawasi seluruh riwayat aktivitas, menambahkan data karyawan, mengatur *rules* parameter absen, hingga mengekspor rekap laporan.
 
 ### 1. Dashboard Utama & Live Feed
-![Dashboard Live Feed](./preview/HalamanAdmin1.png)
+![Dashboard Live Feed](./preview/HalamanAdmin1.jpeg)
 Menyajikan statistik kardinal hari ini: jumlah karyawan Hadir, Pulang, Terlambat, dan Tidak Masuk. Di bawahnya, terdapat papan medali melingkar untuk **Top 5 Karyawan Paling Rajin** serta *Live Feed* (*feed* kehadiran) yang terus mengupdate foto, nama, status jam, dan lokasi orang-orang yang baru saja absen.
 
 ### 2. Log Laporan Absensi Lengkap
