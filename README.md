@@ -3,6 +3,8 @@
 
 <div align="center">
 
+![Featured Preview](Preview.png)
+
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
@@ -463,7 +465,7 @@ Saat membuka portal pertama kali, browser akan meminta:
 ## ❓ Pertanyaan Umum (FAQ)
 
 **Q: Apakah data karyawan aman?**
-> A: Ya. Semua data tersimpan di Google Spreadsheet milik akun Google Anda sendiri. Anthropic/pihak ketiga tidak memiliki akses. Data face descriptor disimpan dalam bentuk numerik terenkripsi, bukan foto.
+> A: Ya. Semua data tersimpan di Google Spreadsheet milik akun Google Anda sendiri. Pihak ketiga tidak memiliki akses. Data face descriptor disimpan dalam bentuk numerik terenkripsi, bukan foto.
 
 **Q: Berapa banyak karyawan yang bisa didaftarkan?**
 > A: Tidak ada batasan teknis dari sistem ini. Batas efektif bergantung pada kapasitas Google Spreadsheet (5 juta sel per spreadsheet) dan kuota Google Apps Script (6 menit eksekusi per call, 90 menit/hari untuk akun gratis).
@@ -534,9 +536,17 @@ Ingin melihat sistem ini secara langsung tanpa instalasi?
 
 <div align="center">
 
+### 🎬 Video Demo
+
+<video src="VideoDemo.mp4" controls width="100%" style="max-width: 800px; border-radius: 12px;">
+  Browser Anda tidak mendukung pemutaran video. Silakan <a href="VideoDemo.mp4">unduh video demo</a> untuk menontonnya.
+</video>
+
+<br><br>
+
 ### 👉 [Coba Demo Live Sekarang](https://script.google.com/macros/s/AKfycby-V1L2NTWmB0qY8p6eyJQl7GXsjKpIF1mOgMs5Kpcvh4pfgpxy63_sqPdy27fPqjOG/exec)
 
-*Demo tersedia untuk eksplorasi fitur portal karyawan maupun dashboard admin.*
+*Demo tersedia untuk eksplorasi fitur portal karyawan maupun dashboard admin.*  
 *Untuk implementasi di perusahaan Anda, ikuti panduan instalasi di atas.*
 
 </div>
