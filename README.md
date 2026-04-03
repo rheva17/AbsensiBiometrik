@@ -248,7 +248,7 @@ Pusat pemantauan real-time yang menyajikan:
 
 ### 3. Log Laporan Absensi Lengkap
 
-![Tabel Absensi](./preview/HalamanAdmin2.png)
+![Tabel Absensi](./preview/HalamanAdmin3.png)
 
 Tabel *responsive* yang merekap seluruh riwayat kehadiran. Kolom-kolom utama:
 
@@ -266,7 +266,7 @@ Tabel *responsive* yang merekap seluruh riwayat kehadiran. Kolom-kolom utama:
 
 ### 4. Log Laporan Istirahat
 
-![Tabel Istirahat](./preview/HalamanAdmin3.png)
+![Tabel Istirahat](./preview/HalamanAdmin4.png)
 
 Tabel terpisah khusus untuk memantau rekap istirahat seluruh karyawan. Berguna untuk:
 
@@ -280,7 +280,7 @@ Tabel terpisah khusus untuk memantau rekap istirahat seluruh karyawan. Berguna u
 
 ### 5. Data Registrasi Karyawan
 
-![Data Karyawan](./preview/HalamanAdmin4.png)
+![Data Karyawan](./preview/HalamanAdmin5.png)
 
 Halaman manajemen database personel perusahaan. Fitur-fitur utama:
 
@@ -295,7 +295,7 @@ Halaman manajemen database personel perusahaan. Fitur-fitur utama:
 
 ### 6. Perekaman / Upload Basis Data Wajah
 
-![Upload Wajah Karyawan](./preview/HalamanAdmin5.png)
+![Upload Wajah Karyawan](./preview/HalamanAdmin6.png)
 
 Modal antarmuka interaktif untuk mendaftarkan biometrik wajah karyawan baru ke dalam sistem AI. Proses registrasi:
 
