@@ -226,7 +226,8 @@ Halaman login dengan autentikasi **username & password**. Akses ke seluruh fitur
 ### 2. Dashboard Utama & Live Feed
 
 ![Dashboard Live Feed](./preview/HalamanAdmin1.png)
-![Tabel Absensi](./preview/HalamanAdmin2.png)
+![Dashboard Live Feed 2](./preview/HalamanAdmin2.png)
+![Halaman Statistik](./preview/HalamanStatistik.png)
 
 Pusat pemantauan real-time yang menyajikan:
 
