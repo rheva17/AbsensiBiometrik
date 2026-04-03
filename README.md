@@ -1,6 +1,5 @@
 # 🤖 Sistem Absensi Cerdas — Face Recognition & GPS Tracking
-<div align="center">
-Berbasis Google Apps Script (Serverless & Gratis)
+## Berbasis Google Apps Script (Serverless & Gratis)
 
 <div align="center">
 <br>
