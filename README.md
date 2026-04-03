@@ -555,7 +555,7 @@ Ingin melihat sistem ini secara langsung tanpa instalasi?
 
 <div align="center">
 
-**Dibuat dengan ❤️ menggunakan Google Apps Script & face-api.js**
+**Dibuat dengan menggunakan Google Apps Script & face-api.js**
 
 ⭐ Jika proyek ini bermanfaat, jangan lupa berikan **Star** di GitHub!
 
