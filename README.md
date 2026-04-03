@@ -540,7 +540,9 @@ Ingin melihat sistem ini secara langsung tanpa instalasi?
 
 ### 🎬 Video Demo
 
-![Demo](./VideoDemo.gif)
+## 🎥 Demo Aplikasi
+
+[![Lihat Demo](preview/Poster.png)](https://raw.githubusercontent.com/rheva17/AbsensiBiometrik/main/VideoDemo.mp4)
 
 > 📥 Klik gambar di atas untuk mengunduh dan menonton video demo lengkap sistem absensi.
 
