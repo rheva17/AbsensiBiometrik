@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Featured Preview](./preview/Preview.png)
+![Featured Preview](./Preview.png)
 
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -162,6 +162,8 @@ sistem-absensi-cerdas/
 │   ├── HalamanAdmin5.png
 │   └── HalamanAdmin6.png
 │
+├── Preview.png
+├── VideoDemo.mp4
 └── README.md
 ```
 
@@ -538,11 +540,11 @@ Ingin melihat sistem ini secara langsung tanpa instalasi?
 
 ### 🎬 Video Demo
 
-<video src="./VideoDemo.mp4" controls width="100%" style="max-width: 800px; border-radius: 12px;">
-  Browser Anda tidak mendukung pemutaran video. Silakan <a href="VideoDemo.mp4">unduh video demo</a> untuk menontonnya.
-</video>
+[![Klik untuk menonton Video Demo](./Preview.png)](./VideoDemo.mp4)
 
-<br><br>
+> 📥 Klik gambar di atas untuk mengunduh dan menonton video demo lengkap sistem absensi.
+
+<br>
 
 ### 👉 [Coba Demo Live Sekarang](https://script.google.com/macros/s/AKfycby-V1L2NTWmB0qY8p6eyJQl7GXsjKpIF1mOgMs5Kpcvh4pfgpxy63_sqPdy27fPqjOG/exec)
 
