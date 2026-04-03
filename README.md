@@ -11,7 +11,7 @@
 
 **Solusi absensi modern berbasis AI yang 100% gratis, tanpa server, dan tanpa biaya berlangganan.**
 
-[🚀 Coba Demo Langsung](https://script.google.com/macros/s/AKfycby-V1L2NTWmB0qY8p6eyJQl7GXsjKpIF1mOgMs5Kpcvh4pfgpxy63_sqPdy27fPqjOG/exec) · [📖 Dokumentasi](#-cara-penggunaan) · [🐛 Laporkan Bug](../../issues) · [💡 Request Fitur](../../issues) · [📖 Read More]([#-cara-penggunaan](https://edusoftcenter.com/revolusi-absensi-cerdas-pengenalan-wajah-gps-berbasis-google-apps-script/))
+[🚀 Coba Demo Langsung](https://script.google.com/macros/s/AKfycby-V1L2NTWmB0qY8p6eyJQl7GXsjKpIF1mOgMs5Kpcvh4pfgpxy63_sqPdy27fPqjOG/exec) · [📖 Dokumentasi](#-cara-penggunaan) · [🐛 Laporkan Bug](../../issues) · [💡 Request Fitur](../../issues) · [📖 Read More](https://edusoftcenter.com/revolusi-absensi-cerdas-pengenalan-wajah-gps-berbasis-google-apps-script/)
 
 </div>
 
