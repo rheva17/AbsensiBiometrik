@@ -540,8 +540,6 @@ Ingin melihat sistem ini secara langsung tanpa instalasi?
 
 ### 🎬 Video Demo
 
-## 🎥 Demo Aplikasi
-
 ![Demo](preview/VideoDemo-ezgif.com-video-to-gif-converter.gif)
 
 <br>
