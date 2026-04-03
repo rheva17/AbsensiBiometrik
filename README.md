@@ -540,7 +540,7 @@ Ingin melihat sistem ini secara langsung tanpa instalasi?
 
 ### 🎬 Video Demo
 
-<video src="./VideoDemo.mp4" alt="Featured Preview" width="50%">
+<video src="./VideoDemo.mp4" width="50%">
 
 > 📥 Klik gambar di atas untuk mengunduh dan menonton video demo lengkap sistem absensi.
 
