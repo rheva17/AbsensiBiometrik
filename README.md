@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="./preview/Poster.png" alt="Featured Preview" width="100%">
+<img src="./preview/Poster.png" alt="Featured Preview" width="50%">
 
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -540,7 +540,7 @@ Ingin melihat sistem ini secara langsung tanpa instalasi?
 
 ### 🎬 Video Demo
 
-<a href="./VideoDemo.mp4"><img src="./preview/Preview.png" alt="Video Demo" width="100%"></a>
+<a href="./VideoDemo.mp4"><img src="./preview/Poster.png" alt="Video Demo" width="50%"></a>
 
 > 📥 Klik gambar di atas untuk mengunduh dan menonton video demo lengkap sistem absensi.
 
