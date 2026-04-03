@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="./preview/Preview.png" alt="Featured Preview" width="100%">
+<img src="./preview/Poster.png" alt="Featured Preview" width="100%">
 
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
