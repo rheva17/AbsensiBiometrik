@@ -217,7 +217,7 @@ Halaman autentikasi pertama sebelum kamera diaktifkan. Karyawan memasukkan **NIK
 Modul admin adalah ruang kendali penuh bagi tim HR — diamankan dengan autentikasi login, dan menyediakan akses ke seluruh data kehadiran, manajemen karyawan, serta konfigurasi sistem.
 
 ### 1. Halaman Login Panel Admin
-![Halaman Login Admin Panel](./preview/HalamanLoginAdmin.jpeg)
+![Halaman Login Admin Panel](./preview/HalamanLoginAdmin.png)
 
 Halaman login dengan autentikasi **username & password**. Akses ke seluruh fitur manajemen hanya dapat dilakukan oleh personel HR yang berwenang. Sistem menggunakan session token untuk menjaga keamanan sesi login.
 
