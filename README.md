@@ -177,6 +177,14 @@ Portal karyawan adalah antarmuka yang digunakan setiap hari oleh seluruh karyawa
 
 ![Portal Utama Karyawan](./preview/HalamanLoginUtama.png)
 
+Halaman autentikasi kilat tempat karyawan menginput NIK (Nomor Induk Karyawan) mereka sebelum mengaktifkan kamera. Sistem akan mengambil identitas dan data wajah rujukan yang terasosiasi dengan NIK tersebut dari database.
+
+---
+
+### 2. Form Login NIK Karyawan
+
+![Login Karyawan](./preview/HalamanMenu.png)
+
 Tampilan awal portal yang modern dengan elemen radar/kamera berbentuk lingkaran di tengah layar sebagai pusat perhatian visual. Terdapat **4 tombol navigasi besar** yang jelas:
 
 | Tombol | Fungsi |
@@ -185,16 +193,6 @@ Tampilan awal portal yang modern dengan elemen radar/kamera berbentuk lingkaran 
 | 🏠 **Absen Pulang** | Mencatat jam kepulangan + menghitung total durasi kerja |
 | ☕ **Mulai Istirahat** | Menandai awal periode istirahat |
 | 🔔 **Selesai Istirahat** | Menandai akhir istirahat + mencatat durasinya |
-
----
-
-### 2. Form Login NIK Karyawan
-
-![Login Karyawan](./preview/HalamanMenu.png)
-
-Halaman autentikasi pertama sebelum kamera diaktifkan. Karyawan memasukkan **NIK (Nomor Induk Karyawan)** mereka — sistem kemudian mengambil data identitas beserta **foto wajah referensi** dari database untuk digunakan sebagai pembanding saat proses pengenalan wajah berlangsung.
-
-> 💡 **Keamanan:** Sistem tidak menyimpan gambar wajah karyawan dalam bentuk foto — melainkan dalam format *face descriptor* (representasi numerik) sehingga data biometrik lebih aman.
 
 ---
 
@@ -224,11 +222,6 @@ Halaman login dengan autentikasi **username & password**. Akses ke seluruh fitur
 ---
 
 ### 2. Dashboard Utama & Live Feed
-
-![Dashboard Live Feed](./preview/HalamanAdmin1.png)
-![Dashboard Live Feed 2](./preview/HalamanAdmin2.png)
-![Halaman Statistik](./preview/HalamanStatistik.png)
-
 Pusat pemantauan real-time yang menyajikan:
 
 **Kartu Statistik Hari Ini:**
@@ -238,6 +231,10 @@ Pusat pemantauan real-time yang menyajikan:
 │    42    │  │    18    │  │     5    │  │     3    │
 └──────────┘  └──────────┘  └──────────┘  └──────────┘
 ```
+
+![Dashboard Live Feed](./preview/HalamanAdmin1.png)
+![Dashboard Live Feed 2](./preview/HalamanAdmin2.png)
+![Halaman Statistik](./preview/HalamanStatistik.png)
 
 **Fitur Unggulan:**
 - 🏆 **Top 5 Karyawan Paling Rajin** — papan peringkat dengan avatar melingkar
