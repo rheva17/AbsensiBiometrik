@@ -175,7 +175,7 @@ Portal karyawan adalah antarmuka yang digunakan setiap hari oleh seluruh karyawa
 
 ### 1. Halaman Utama (Main Portal)
 
-![Portal Utama Karyawan](./preview/HalamanKaryawan1.png)
+![Portal Utama Karyawan](./preview/HalamanLoginUtama.png)
 
 Tampilan awal portal yang modern dengan elemen radar/kamera berbentuk lingkaran di tengah layar sebagai pusat perhatian visual. Terdapat **4 tombol navigasi besar** yang jelas:
 
@@ -190,7 +190,7 @@ Tampilan awal portal yang modern dengan elemen radar/kamera berbentuk lingkaran 
 
 ### 2. Form Login NIK Karyawan
 
-![Login Karyawan](./preview/HalamanKaryawan2.png)
+![Login Karyawan](./preview/HalamanMenu.png)
 
 Halaman autentikasi pertama sebelum kamera diaktifkan. Karyawan memasukkan **NIK (Nomor Induk Karyawan)** mereka — sistem kemudian mengambil data identitas beserta **foto wajah referensi** dari database untuk digunakan sebagai pembanding saat proses pengenalan wajah berlangsung.
 
