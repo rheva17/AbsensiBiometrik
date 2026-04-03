@@ -280,7 +280,7 @@ Tabel terpisah khusus untuk memantau rekap istirahat seluruh karyawan. Berguna u
 
 ### 5. Data Registrasi Karyawan
 
-![Data Karyawan](./preview/HalamanAdmin5.png)
+![Data Karyawan](./preview/HalamanDataKaryawan.png)
 
 Halaman manajemen database personel perusahaan. Fitur-fitur utama:
 
@@ -295,7 +295,7 @@ Halaman manajemen database personel perusahaan. Fitur-fitur utama:
 
 ### 6. Perekaman / Upload Basis Data Wajah
 
-![Upload Wajah Karyawan](./preview/HalamanAdmin6.png)
+![Upload Wajah Karyawan](./preview/HalamanDaftarFoto.png)
 
 Modal antarmuka interaktif untuk mendaftarkan biometrik wajah karyawan baru ke dalam sistem AI. Proses registrasi:
 
