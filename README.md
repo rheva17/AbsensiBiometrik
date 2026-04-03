@@ -227,9 +227,9 @@ Pusat pemantauan real-time yang menyajikan:
 **Kartu Statistik Hari Ini:**
 ```
 ┌──────────┐  ┌────────────┐  ┌─────────────┐    ┌─────────────┐
-│ 🟢 Hadir │  |🔵 Pulang  │   │🔴Terlambat  |    |⚫Tdk Masuk │
-│    42    │  │    18      │    │     5       │    |   3         │
-└──────────┘  └────────────┘    └─────────────┘    └─────────────┘
+│🟢 Hadir  │  |🔵 Pulang  │  │🔴Terlambat  |    |⚫Tdk Masuk │
+│    42    │  │    18      │  │     5       │    |   3         │
+└──────────┘  └────────────┘  └─────────────┘    └─────────────┘
 ```
 
 ![Dashboard Live Feed](./preview/HalamanAdmin1.png)
