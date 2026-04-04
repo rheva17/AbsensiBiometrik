@@ -488,7 +488,7 @@ Ingin melihat sistem ini secara langsung tanpa instalasi?
 ### 👉 [Coba Demo Live Sekarang](https://script.google.com/macros/s/AKfycby-V1L2NTWmB0qY8p6eyJQl7GXsjKpIF1mOgMs5Kpcvh4pfgpxy63_sqPdy27fPqjOG/exec)
 
 *Demo tersedia untuk eksplorasi fitur portal karyawan maupun dashboard admin.*  
-*Untuk implementasi di perusahaan Anda, ikuti panduan instalasi di atas.*
+*Untuk implementasi di perusahaan Anda, Silahkan hubungi kami !*
 
 </div>
 
